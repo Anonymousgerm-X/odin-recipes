@@ -1,1 +1,2 @@
 # odin-recipes
+my current project is building a simple recipe website which contains links to different recipes and pages. I would hope to demonstrate knowledge in using anchor links as well as img sampling and cross-page compatability.
